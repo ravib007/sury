@@ -1,4 +1,4 @@
-
+                      "GLOBAL INFORMATION TRACKER"
 * Git :
 ====
 Git is a distributed version control system(VCS) that is used to track changes in source code. it is designed for speed and efficiency, and it well suited for handling large projects.
@@ -24,8 +24,6 @@ Git -2005. it was used first in linux owner (linux starwall) -Cli (command line 
 Git works on version by version 
   1. centralize version controlling system  -(remote/server repository)
   2. Distribution version controlling system (GIT) (Local repository)
-
-
 
 Day 1: 
 ~~~~
@@ -53,12 +51,9 @@ Strategies :
 8. clone
 9. fork
 
-
 Aws -cloud -Technology
 Devops -Methodology
-
 Devops = Dev+Ops (Development + Operations)
-
 SDLC
 =====
 waterfall =1970 - 1990
@@ -74,8 +69,7 @@ Agile  = 1990 - 2010
 Devops = 2010 -till 
  1. Real time to market
  2. Dev and Ops Collaboration
- 3. continuous changes and delivery.  
-
+ 3. continuous changes and delivery
 
 GIT 
 =====
@@ -89,5 +83,11 @@ Framework :
 ABC Company <-> Need (client)
 
 project -> Planning -> Requirement -> Design->Develop(code)-> Test->ImplementInfrastructure(Deploy) -> Monitor 
-
+=======
+Thanks and Regards,
+AWS and DevOps Engineer 
+United states of America
+California, New york city
+CA -1283849
+Contact +123 8933 8403
 
