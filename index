@@ -54,4 +54,40 @@ Strategies :
 9. fork
 
 
+Aws -cloud -Technology
+Devops -Methodology
+
+Devops = Dev+Ops (Development + Operations)
+
+SDLC
+=====
+waterfall =1970 - 1990
+  i. Structured  Linear Approach
+  ii. upfront planning
+  iii. in-depth documentation
+
+Agile  = 1990 - 2010
+  a. Loss time to market
+  b. Quick return on investment
+  c. Flexible/ continuous evolution
+
+Devops = 2010 -till 
+ 1. Real time to market
+ 2. Dev and Ops Collaboration
+ 3. continuous changes and delivery.  
+
+
+GIT 
+=====
+* Version control system
+* Source control Management
+* Distributed version controlling system (Local repository) 
+
+Framework :
+========
+
+ABC Company <-> Need (client)
+
+project -> Planning -> Requirement -> Design->Develop(code)-> Test->ImplementInfrastructure(Deploy) -> Monitor 
+
 
