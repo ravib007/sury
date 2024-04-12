@@ -1,0 +1,26 @@
+
+* Git :
+====
+Git is a distributed version control system(VCS) that is used to track changes in source code. it is designed for speed and efficiency, and it well suited for handling large projects.
+
+*Git Lab : 
+======
+Git Lab is a cloud based devops platform that helps developers monitor, test and deploy their code.
+
+* Git Hub :
+=======
+Git hub is a web based interface that uses git, the open source version control software that lets mutiple people make separate changes to web pages at the same time. ( create , manage, store the code).
+
+*Git Repository :
+==========
+A git repository, also known as repo, is a collection of files and directories that are tracked and managed by git. Git repository are used to track changes to files over time, enabling developers to collaborate on projects and revert to previous version of files if needed.
+
+
+Git lab--Working Area
+Git hub-- Storage place
+
+Git -2005. it was used first in linux owner (linux starwall) -Cli (command line interface) --> we need to know commands. it stores on file format (no graphical load file) command--Algorithm based (set of rules) --SHA-52(algorithm) 
+
+Git works on version by version 
+  1. centralize version controlling system  -(remote/server repository)
+  2. Distribution version controlling system (GIT) (Local repository)
